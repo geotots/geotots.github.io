@@ -1,0 +1,131 @@
+/* Global Styles */
+
+body {
+	margin:0px;
+	}
+	
+td {
+	font:11px Century Gothic;
+	color:#99CCFF;
+	font-family: "Century Gothic";
+	}
+	
+hr {
+	height:1px; 
+	color: #cccccc;
+	border: none;
+	}
+	
+a {
+	color: #CC3300;
+	text-decoration:underline;
+	}
+	
+a:hover {
+	color: #FF3300;
+	text-decoration:none;
+	}
+	
+/* ID Styles */
+
+#navigation a {
+	font:11px Century Gothic;
+	color: #99CCFF;
+	font-weight:bold;
+	text-decoration: none;
+	letter-spacing:0.1em;
+	line-height:16px;
+	display:block;
+	padding:10px;
+	border: 1pt solid rgb(20,40,95);
+	border-right-width: 0px;
+	border-left-width: 0px;
+	}
+	
+#navigation a:hover {
+	color:#ffffff;
+	border: 1pt dotted red;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	border-top: 0;
+	}
+	
+#sidebarHeader {
+	padding: 0px 4px 14px 4px;
+	}
+
+#logo {
+	font:18px;
+	color: e00000;
+	line-height:24px;
+	letter-spacing:0.4em;
+	}
+
+#tagline {
+	color: e00000;
+	line-height:18px;
+	letter-spacing:.2em;
+	font-family: "Century Gothic";
+	font-size: 12px;
+	}
+	
+#dateformat a {
+	color:#99CCFF;
+	font:11px Century Gothic;
+	color: #99CCFF;
+	letter-spacing:0.2em;
+	text-decoration:none;
+	font-weight:bold;
+	}
+	
+#dateformat a:hover {
+	color: #ffffff;
+	}
+
+/* Class Styles */
+
+.bodyText {
+	font:12 Century Gothic;
+	color:#222222;
+	line-height:20px;
+	letter-spacing:0em;
+	margin-top:0px;
+	}
+	
+.pageName{
+	font:22px Century Gothic;
+	color: e00000;
+	line-height:20px;
+	letter-spacing:0.1em;
+	}
+	
+.subHeader {
+	font:16px Century Gothic;
+	color: #E00000;
+	font-weight:bold;
+	letter-spacing:0.1em;
+	line-height:16px;
+	}	
+	
+.sidebarHeader {
+	font:14px Century Gothic;
+	color: #99CCFF;
+	font-weight:bold;
+	letter-spacing:0.1em;
+	line-height:16px;
+	}	
+	
+.detailText {
+	font:11px Century Gothic;
+	color:#ffffff;
+	line-height:16px;
+	letter-spacing:0.1em;
+	}
+	
+.smallText {
+	font:10px Century Gothic;
+	color:#99CCFF;
+	}
+	
+
+	
