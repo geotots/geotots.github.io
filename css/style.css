@@ -32,17 +32,17 @@ img{max-width:100%;}
     font-style: normal;
 }
 @font-face {
-    font-family: 'trump_town_proregular';
+    font-family: 'Century Gothic';
     src: url('../fonts/Trump_Town_Pro-webfont.eot');
     src: url('../fonts/Trump_Town_Pro-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/Trump_Town_Pro-webfont.woff') format('woff'),
          url('../fonts/Trump_Town_Pro-webfont.ttf') format('truetype'),
-         url('../fonts/Trump_Town_Pro-webfont.svg#trump_town_proregular') format('svg');
+         url('../fonts/Trump_Town_Pro-webfont.svg#Century Gothic') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 body{
-	font-family: 'open_sansregular';
+	font-family: "Century Gothic";
 	background:#FFF;
 	font-size:100%;
 }
@@ -121,7 +121,7 @@ body{
 .top-service-grid a span{
 	font-size: 1.5em;
 	color: #323232;
-	font-family: trebuchet ms,'open_sansregular';
+	font-family: "Century Gothic";
 	font-weight: 900;
 	margin:1em 0 0.6em 0;
 	display:block;
@@ -304,7 +304,7 @@ body{
 .recent-works-head h3{
 	color:#FFF;
 	font-size:4.5em;
-	font-family: 'trump_town_proregular';
+	font-family: 'Century Gothic';
 	text-transform:uppercase;
 }
 .recent-works-head p{
@@ -437,7 +437,7 @@ body{
 .team-head h3{
 	color: #FFF;
 	font-size: 4.5em;
-	font-family: 'trump_town_proregular';
+	font-family: 'Century Gothic';
 	text-transform: uppercase;
 }
 .team-head p{
@@ -485,7 +485,7 @@ body{
 .team-member h4 a{
 	color: #383838;
 	font-size: 2.5em;
-	font-family: 'trump_town_proregular';
+	font-family: 'Century Gothic';
 	text-transform: uppercase;
 	margin: 0.5em 0 0 0;
 	display: block;
@@ -546,7 +546,7 @@ body{
 .recent-posts-head h3{
 	color: #FFF;
 	font-size: 4.5em;
-	font-family: 'trump_town_proregular';
+	font-family: 'Century Gothic';
 	text-transform: uppercase;
 }
 .recent-posts-head p{
@@ -599,7 +599,7 @@ body{
 .contact-head h3{
 	color: #D3D0D0;
 	font-size: 4.5em;
-	font-family: 'trump_town_proregular';
+	font-family: "Century Gothic";
 	text-transform: uppercase;
 }
 .contact-head p{
