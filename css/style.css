@@ -64,10 +64,10 @@ body{
 	margin-right: 7px;
 }
 .logo a{
-	font-family: 'trump_town_proregular';
+	font-family: "Century Gothic";
 	color: #3A494C;
 	font-size: 3em;
-	text-transform: uppercase;
+	text-transform: none;
 }
 .top-header {
 	padding: 3em 0;
