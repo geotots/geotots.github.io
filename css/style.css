@@ -1,5 +1,12 @@
 /* reset */
-html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,dl,dt,dd,ol,nav ul,nav li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,dl,dt,dd,ol,nav ul,nav li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{
+	margin:0;
+	padding:20;
+	border:0;
+	font-size:100%;
+	font:inherit;
+	vertical-align:baseline;
+}
 article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, section {display: block;}
 ol,ul{list-style:none;margin:0px;padding:0px;}
 blockquote,q{quotes:none;}
@@ -70,14 +77,14 @@ body{
 	text-transform: none;
 }
 .top-header {
-	padding: 3em 0;
+	padding: 0em 0;
 }
 .header{
 	background: url(../images/header-bg.jpg);
 	min-height: 650px;
 }
 .top-nav{
-	float:right;
+	float:none;
 }
 .top-nav ul li{
 	display: inline-block;
@@ -97,7 +104,6 @@ body{
 .top-nav li.active> a, .top-nav li> a:hover {
 	color: #A5D3DB;
 	background:#3A494C;
-	
 }
 .da-title h3{
 	width:50%;
@@ -591,7 +597,7 @@ body{
 /*---start-contact----*/
 .contact{
 	background:#3C3C3C;
-	padding:4em 0;
+	padding:0;
 }
 .contact-head{
 	text-align:center;
@@ -819,7 +825,7 @@ body{
 		margin-right: 3%;
 	}	
 	.top-nav ul li {
-		margin-left: 0em;
+		margin-left: 3em;
 	}
 	.top-nav ul li a {
 		font-size: 1.1em;
